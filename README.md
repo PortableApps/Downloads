@@ -1,1 +1,1 @@
-# Temporary project for PortableApps.com freeware apps
+# Temporary downloads for some PortableApps.com apps

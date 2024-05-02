@@ -1,6 +1,6 @@
 # Temporary downloads for some PortableApps.com apps
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PortableApps/Downloads/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PortableApps/Downloads/total?link=https%3A%2F%2Fgithub.com%2FPortableApps%2FDownloads%2Freleases%2Ftag%2Fdownload)
 ![Static Badge](https://img.shields.io/badge/license-Various-lightgray)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PortableApps/Downloads)
 
